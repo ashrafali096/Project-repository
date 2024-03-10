@@ -1,2 +1,4 @@
-# Project-repository
-This is my first repository
+# Project-Repository
+This is my first Git Repository.
+<br>
+Author - Ashraf Ali
